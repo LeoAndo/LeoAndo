@@ -10,3 +10,5 @@
 ### [hashnode](https://hashnode.com/@leoleo)
 
 ### [Github pages](https://leoando.github.io/)
+
+### [zenn](https://zenn.dev/leoleo)
