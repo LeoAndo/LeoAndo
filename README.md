@@ -5,10 +5,6 @@
 
 ### [Github Discussions](https://github.com/LeoAndo/LeoAndo/discussions)
 
-### [youtube channel](https://www.youtube.com/channel/UCRHmqbpPfcZrZjr4Zeiq4Tw)
-
 ### [hashnode](https://hashnode.com/@leoleo)
-
-### [my profile page](https://leoando.github.io/flutter_my_profile_app)
 
 ### [zenn](https://zenn.dev/leoleo)
