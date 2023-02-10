@@ -9,6 +9,6 @@
 
 ### [hashnode](https://hashnode.com/@leoleo)
 
-### [Github pages](https://leoando.github.io/)
+### [my profile page](https://leoando.github.io/flutter_my_profile_app)
 
 ### [zenn](https://zenn.dev/leoleo)
